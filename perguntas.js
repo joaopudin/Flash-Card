@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Marvel',
-    'Quanto foi a bilheteria do filme "Vingadores"?',
+    'Quanto foi a bilheteria do filme "Os Vingadores"?',
     'A bilheteria foi de 1,5 bilhões de dólares no mundo todo'
 )
 
@@ -54,8 +54,8 @@ criaCartao(
 
 criaCartao(
     'Dc',
-    'Como o Cringa ficou louco?',
-    'Coringa era um humorista mal-sucedido que tinha uma esposa grávida, então começou a se envolver com criminosos para assaltar uma fábrica de baralho usando a identidade de Capuz Vermelho, até que numa invasão mal-sucedida, caiu num tonel de produtos ácidos, ganhou a aparência mais famosa.'
+    'Quem foi o principal antagonista da saga Death Metal?',
+    'Foi o Batman que ri.'
 )
 
 criaCartao(
@@ -71,37 +71,37 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'God of War',
+    'Por quê Kratos fez o pacto com Ares no primeiro jogo?',
+    'Ele fez o pacto com Ares para poder vencer o líder Bárbaro'
+)
+
+criaCartao(
+    'God of War',
+    'Quais são as armas que Kratos usa no terceiro jogo?',
+    'Lâminas de Atena, Garras de Hades, Punhos de Nemeia, Chicote de Nêmesis e Lâmina do Olimpo'
+)
+
+criaCartao(
+    'God of War',
+    '?',
+    'Oi em ingles é HI (RAI)'
+)
+
+criaCartao(
+    'God of War',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'God of War',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
-)
-
-criaCartao(
-    'Lingua inglesa',
+    'God of War',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
