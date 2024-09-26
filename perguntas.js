@@ -60,7 +60,7 @@ criaCartao(
 
 criaCartao(
     'Dc',
-    'Qual o nome verdadeiro do Superman?',
+    'Qual o nome verdadeiro do Superman? (Em Kripton)',
     'O nome dele é Kal-El'
 )
 
@@ -84,66 +84,66 @@ criaCartao(
 
 criaCartao(
     'God of War',
-    '?',
-    'Oi em ingles é HI (RAI)'
+    'Qual o parentesco de Baldur com Thor nos jogs que se passam na Mitologia Nórdica?',
+    'Eles são irmãos'
 )
 
 criaCartao(
     'God of War',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Por quê Kratos precisa ir atrás das lâminas do caos no 4° jogo da franquia?',
+    'Porque Atreus está doente e o ingrediente par que ele se cure só pode ser encontrado em Helheim, que é puro gelo'
 )
 
 criaCartao(
     'God of War',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Quais são as duas armas mais poderosas que aparecem nos dois últimos jogos da franuia?',
+    'Machado Leviathan e Mjölnir (Martelo do Thor)'
 )
 
 criaCartao(
     'God of War',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Qual o nome de cada uma das Valquírias que aparecem nos dois jogos que se passam na Mitologia Nórdica?',
+    'Gunnr; Kara; Geirdiful; Olrun; Eir; Gondul; Rota; Hildr; Hrist; Mist; Rainha Gná; Rainha Sigrun'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Horion Zero Dawn',
+    'Onde ficam localizadas todas as cinco Bateris e qual o nome do traje que e libaera ao coletar todas?',
+    'Coração da Mãe; Fim do Criador; O Cemitério; Gaia Prime; Ruínas, o traje se chama: tecelã escudeira'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Horizon Zero Dawn',
+    'Quais o três principais tipos de arco mo jogo?',
+    'Arco de Caçador, Arco de Guerreiro e Arco de Precisão'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Horion Zero Dawn',
+    'Quais as três máquinas mais fortes do jogo em ordem decrescente de nível? (contando com a DLC Frozen Wilds)',
+    'Garraquente (Nível: 50); Garrafria, Incinerante e Arauto da Morte (Nível: 30); Tirânico e Ave Tempestade (Nível: 27)'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Horion Forbiden West',
+    'Quanto tempo se passa de Horizon Zero Dawn para Horizon Forbiden West?',
+    'Se passam seis meses de um jogo para o outro'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Horion Forbiden West',
+    'Qual a nova variação de máquina introduzida no jogo?',
+    'A variação Alfa'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Horion Forbiden West',
+    'Quais as variações do Garraveloz no jogo?',
+    'Garra-Veloz, Garra-Veloz de Fogo, Garra-Veloz de Ácido, Garra-Veloz Alfa, Garra-Veloz de Fogo Alfa, Garra-Veloz de Ácido Alfa.'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    '',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )

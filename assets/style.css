@@ -1,11 +1,14 @@
 :root {
-    --text-color: #cc2bcc;
-    --card-front-color: #000000;
-    --card-back-color: #cc2bcc;
+    --text-color: #5eb9dde7;
+    --card-front-color: #504d4d;
+    --card-back-color: #5eb9dde7;
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    /*background: url('img/GodofWar.webp');*/
+    background: url(img/GodofWar.webp);
+    background-size: 1920px;
+    width: 1920px;
     font-family: BaiJamjuree-Regular;
 }
 
