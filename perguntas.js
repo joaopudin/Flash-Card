@@ -143,37 +143,37 @@ criaCartao(
 )
 
 criaCartao(
-    '',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'War Thunder',
+    'Qual a milimetragem da placa ffrontal do Tiger II?',
+    'É 150mm'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'War Thunder',
+    'Qual o tanque mais caro de jogo em Gaijin Coins?',
+    'É o E-100, custando aproximadamente 2000 Gaijin Coins'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'War Thunder',
+    'Quantos tanques de Rank 7.0 tem na Almanha sem contar véiculos Premium e de evento?',
+    'Kugelblitz, Tiger II (105) e Panther II'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'War Thunder',
+    'Qual é o "tanque nuclear" no jogo?',
+    'É o Object 279'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'War Thunder',
+    'Quais são os principais tanques de rank 11.7 das treês principais nações do jogo?',
+    'USA: M1A2 Abrams / Sep / Sep V2 e ADATS; Alemanha: Leopard 2a7V / 2A5 / 2A6 / 2PSO e FlaRakRad; Russia: T-80BVM, T-90M e Pantsair S1'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'War Thunder',
+    'Quai as classes de tanques presentes no jogo?',
+    'Tanque leve, Médio, Pesado, Caça tanque, Antiaerea'
 )
